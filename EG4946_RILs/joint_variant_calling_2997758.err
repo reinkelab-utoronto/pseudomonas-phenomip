@@ -1,0 +1,4 @@
+/var/spool/slurmd/job2997758/slurm_script: line 9: cd: /home/yinchen/scratch/non_hmm_brekpoints: No such file or directory
+Note: none of --samples-file, --ploidy or --ploidy-file given, assuming all sites are diploid
+[mpileup] 13 samples in 13 input files
+[mpileup] maximum number of reads per input file set to -d 250

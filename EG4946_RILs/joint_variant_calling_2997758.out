@@ -1,0 +1,4 @@
+Samples included in variant calling:
+EG4946_S19_L001.sorted.bam EG4946_fromCENDR.sorted.bam EG_NIL_A1_S9_L001.sorted.bam EG_NIL_A2_S10_L001.sorted.bam EG_NIL_A3_S11_L001.sorted.bam EG_NIL_A4_S12_L001.sorted.bam EG_NIL_A5_S13_L001.sorted.bam EG_NIL_B1_S14_L001.sorted.bam EG_NIL_B2_S15_L001.sorted.bam EG_NIL_B3_S16_L001.sorted.bam EG_NIL_B4_S17_L001.sorted.bam EG_NIL_B5_S18_L001.sorted.bam JYIS8_S31_L001.sorted.bam
+✅ Joint variant calling complete!
+Output VCF: NILs_joint.filtered.vcf.gz

@@ -1,0 +1,2 @@
+CHROM	marker	log10p	startPOS	peakPOS	endPOS	peak_id	method	trait
+X	X:11614899	5.4137335	10802009	11614899	12172367	1	loco	M114_avg_auc_zscore

@@ -1,0 +1,8 @@
+population: JU2250
+Thu Oct 22 14:51:49 EDT 2026
+fastp:    fastp 1.0.1
+bwa:      Version: 0.7.18-r1243-dirty
+samtools: samtools 1.22.1
+bcftools: bcftools 1.22
+picard:   Version:3.1.0
+parameters: MAX_DEPTH=2000 MIN_QUAL=20 MIN_DP=10

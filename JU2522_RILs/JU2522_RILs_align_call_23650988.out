@@ -1,0 +1,58 @@
+Processing sample: JU2522_RIL_J11
+  Aligning L001
+  Aligning L002
+  Aligning L003
+  Merging 3 lane(s) into JU2522_RIL_J11.sorted.bam
+Finished JU2522_RIL_J11
+Processing sample: JU2522_RIL_J12
+  Aligning L001
+  Aligning L002
+  Aligning L003
+  Merging 3 lane(s) into JU2522_RIL_J12.sorted.bam
+Finished JU2522_RIL_J12
+Processing sample: JU2522_RIL_J14
+  Aligning L001
+  Aligning L002
+  Aligning L003
+  Merging 3 lane(s) into JU2522_RIL_J14.sorted.bam
+Finished JU2522_RIL_J14
+Processing sample: JU2522_RIL_J21
+  Aligning L001
+  Aligning L002
+  Aligning L003
+  Merging 3 lane(s) into JU2522_RIL_J21.sorted.bam
+Finished JU2522_RIL_J21
+Processing sample: JU2522_RIL_J24
+  Aligning L001
+  Aligning L002
+  Aligning L003
+  Merging 3 lane(s) into JU2522_RIL_J24.sorted.bam
+Finished JU2522_RIL_J24
+Processing sample: JU2522_RIL_J5
+  Aligning L001
+  Aligning L002
+  Aligning L003
+  Merging 3 lane(s) into JU2522_RIL_J5.sorted.bam
+Finished JU2522_RIL_J5
+Processing sample: JU2522
+  Aligning L001
+  Aligning L002
+  Aligning L003
+  Merging 3 lane(s) into JU2522.sorted.bam
+Finished JU2522
+Processing sample: JYIS8
+  Aligning L001
+  Merging 1 lane(s) into JYIS8.sorted.bam
+Finished JYIS8
+✅ All alignments completed.
+Samples included in variant calling:
+  JU2522_RIL_J11.sorted.bam
+  JU2522_RIL_J12.sorted.bam
+  JU2522_RIL_J14.sorted.bam
+  JU2522_RIL_J21.sorted.bam
+  JU2522_RIL_J24.sorted.bam
+  JU2522_RIL_J5.sorted.bam
+  JU2522.sorted.bam
+  JYIS8.sorted.bam
+✅ Joint variant calling complete!
+Output VCF: JU2522_RILs_joint.filtered.vcf.gz

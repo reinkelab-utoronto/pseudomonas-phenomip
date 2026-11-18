@@ -1,0 +1,26 @@
+# GitHub reads this file to show a "Cite this repository" button.
+# Replace every value in [square brackets] once the paper is accepted, and add or remove
+# author entries so the list matches the paper. Keep the quotation marks.
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "Code and data for: [Paper title]"
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given names]"
+  - family-names: "[Family name]"
+    given-names: "[Given names]"
+repository-code: "https://github.com/reinkelab-utoronto/[repository-name]"
+license: MIT
+preferred-citation:
+  type: article
+  title: "[Paper title]"
+  authors:
+    - family-names: "[Family name]"
+      given-names: "[Given names]"
+    - family-names: "[Family name]"
+      given-names: "[Given names]"
+  journal: "[Journal]"
+  volume: "[Volume]"
+  start: "[Article number or first page]"
+  year: "[Year]"
+  doi: "[DOI]"

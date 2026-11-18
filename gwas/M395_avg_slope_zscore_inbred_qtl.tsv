@@ -1,0 +1,2 @@
+CHROM	marker	log10p	startPOS	peakPOS	endPOS	peak_id	method	trait
+I	I:4739487	5.469735	3179739	4739487	8252990	1	inbred	M395_avg_slope_zscore

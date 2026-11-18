@@ -1,0 +1,4 @@
+Samples included in variant calling:
+JU2250_S30_L001.sorted.bam JU2250_from_CAENDR.sorted.bam JU_NIL_A1_S20_L001.sorted.bam JU_NIL_A2_S21_L001.sorted.bam JU_NIL_A3_S22_L001.sorted.bam JU_NIL_A4_S23_L001.sorted.bam JU_NIL_A5_S24_L001.sorted.bam JU_NIL_B1_S25_L001.sorted.bam JU_NIL_B2_S26_L001.sorted.bam JU_NIL_B3_S27_L001.sorted.bam JU_NIL_B4_S28_L001.sorted.bam JU_NIL_B5_S29_L001.sorted.bam JYIS8_S31_L001.sorted.bam
+✅ Joint variant calling complete!
+Output VCF: NILs_joint.filtered.vcf.gz
