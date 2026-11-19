@@ -146,5 +146,5 @@ If you use these data or code, please cite the paper above. The code is released
 ## Contact
 
 Aaron Reinke — aaron.reinke@utoronto.ca
-Yin C. Wan — [email]
+Yin C. Wan — yinchen.wan@mail.utoronto.ca
 Department of Molecular Genetics, University of Toronto
